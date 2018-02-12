@@ -15,10 +15,10 @@
 using namespace std;
 
 /**
- Fills a matrix of size nxn with random numbers between 1 and 100
+ Fills a matrix of size nxn with random numbers between 1 and 100.
 
  @param matrix Matrix to fill.
- @param n Size of the matrix [nxn]
+ @param n Size of the matrix [nxn].
  */
 void randMatrix(int **matrix, int n);
 

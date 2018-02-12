@@ -15,7 +15,7 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     // Matrices dimensions [nxn]
-    int n = 10;
+    int n = 700;
     
     // Result matrices inicialization
     int **result1;
